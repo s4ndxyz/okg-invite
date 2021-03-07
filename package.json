@@ -1,0 +1,21 @@
+{
+  "name": "okg-invite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uniswap/sdk": "^3.0.3",
+    "axios": "^0.21.1",
+    "cli-progress": "^3.9.0",
+    "ethers": "^5.0.31",
+    "moment": "^2.29.1",
+    "web3": "^1.3.4",
+    "xml2js": "^0.4.23"
+  }
+}
